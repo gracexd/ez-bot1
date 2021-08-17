@@ -44,6 +44,9 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
+│
+│「 Group whatsapp 」
+│ > https://chat.whatsapp.com/EQ7uUjaOzdz1whRPoCa5oX
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
